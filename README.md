@@ -1,3 +1,6 @@
-# firebase_ml_kit
+# Text Recognizer
 
-A new Flutter project.
+Projeto desenvolvido na disciplina de desenvolvimento Mobile.
+
+O aplicativo tem como objetivo identificar o texto escrito em uma imagem.
+
